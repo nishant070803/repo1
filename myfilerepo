@@ -1,3 +1,15 @@
-hello
-welecome to git hub
-welcome again
+git fetch origin
+git checkout -b f1
+git rebase origin/main
+git add readme.md
+git commit
+git fetch origin
+git fetch origin/main
+git add readme
+git rebase --continue
+git push origin f1
+g
+
+git stash list
+git tag -l
+git tag -d v1.0
